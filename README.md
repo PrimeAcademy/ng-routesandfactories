@@ -21,7 +21,8 @@ Have a button for the user to click to give the character a high five. When clic
 
 Display a statement about many high fives the current character has received as a fraction of how many high fives have been given to all characters.
 
-
+For example: "I've successfully made 4 of the 11 successful high fives!"
+ 
 ## High Five Logistics
 Randomly generate a high-five skill for each character. Note: this will mean the characters' skills will be different each time the app is run.
 
@@ -29,21 +30,10 @@ When a user clicks to give the character a high-five, randomly generate the qual
 
 If a highfive is successful, undate the highfive count.
 
-Display on the DOM how many successful high fives that character has recieved compared to how the total successful high fives of all characters.
-
 You will need to find a way to share the total number of high fives across your controllers.
 Make only one random number generator in your application instead of writing the random number generator in two different places for each controller (for the skill and the quality).
 
-
-
-For example:
-
- "I've successfully made 4 of the 11 successful high fives!"
-
-
-![](http://giphy.com/gifs/hulu-fox-bobs-burgers-26ufoa7rtI6Q6oi8E)
-
-
+![](http://giphy.com/gifs/barack-obama-president-they-tried-TEFplLVRDMWBi)
 
 ## Hard Mode
 Use ng-show, ng-hide, or ng-if to add some creative, dynamic elements to your views when users click on things.
