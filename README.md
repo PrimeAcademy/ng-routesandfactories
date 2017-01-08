@@ -1,17 +1,12 @@
-# Angular Routing Lecture
-
-Make sure to run `npm install` to get Express. Angular and Bootstrap are included.
-
-
-# Angular-Routes-Solo
-
-#Fictional Character High Five-Off
-Hey everybody!
+# Fictional Character High Five-Off
 
 In this assignment, you'll be making a making an app to high five fictional characters. However, each fictional character's skill with high-fiving will be randomly generated. And each high five may or may not work!
 
 You'll be using Angular Routes to display make a separate view for each of 3 different fictional characters of your choice. Your page should have a static header and footer of some kind, and 3 navigation buttons to swap out the content of the characters.
 
+## Setup
+
+Run `npm install` to get Express. Angular and Bootstrap are included.
 
 ## On each page:
 Display a character image, their name, and something about them (ya know, it's good to have an introduction before high-fiving strangers).
