@@ -33,7 +33,7 @@ If a highfive is successful, undate the highfive count.
 You will need to find a way to share the total number of high fives across your controllers.
 Make only one random number generator in your application instead of writing the random number generator in two different places for each controller (for the skill and the quality).
 
-![](http://giphy.com/gifs/TEFplLVRDMWBi/html5)
+![](http://i.giphy.com/TEFplLVRDMWBi.gif)
 
 ## Hard Mode
 Use ng-show, ng-hide, or ng-if to add some creative, dynamic elements to your views when users click on things.
