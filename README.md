@@ -36,7 +36,7 @@ Make only one random number generator in your application instead of writing the
 ![](http://i.giphy.com/TEFplLVRDMWBi.gif)
 
 ## Hard Mode
-Use ng-show, ng-hide, or ng-if to add some creative, dynamic elements to your views when users click on things.
+Use ng-show, ng-hide, ng-if, or ng-animate to add some creative, dynamic elements to your views when users click on things.
 
 ## Pro Mode
 Make the whole experience responsive with media queries or by using a library such as Skeleton or the built-in CSS3 option: Flexbox.
