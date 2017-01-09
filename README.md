@@ -2,7 +2,7 @@
 
 In this assignment, you'll be making a making an app to high five fictional characters. However, each fictional character's skill with high-fiving will be randomly generated. And each high five may or may not work!
 
-You'll be using Angular Routes to display make a separate view for each of 3 different fictional characters of your choice. Your page should have a static header and footer of some kind, and 3 navigation buttons to swap out the content of the characters.
+You'll be using Angular Routes to make a separate view for 3 different fictional characters of your choice. Your page should have a static header and footer of some kind, and 3 navigation buttons to swap out the content of the characters.
 
 ## Setup
 
